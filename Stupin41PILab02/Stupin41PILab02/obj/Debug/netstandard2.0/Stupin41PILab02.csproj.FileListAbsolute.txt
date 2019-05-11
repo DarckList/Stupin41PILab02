@@ -1,0 +1,13 @@
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\bin\Debug\netstandard2.0\Stupin41PILab02.deps.json
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\bin\Debug\netstandard2.0\Stupin41PILab02.dll
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\bin\Debug\netstandard2.0\Stupin41PILab02.pdb
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\Stupin41PILab02.csprojAssemblyReference.cache
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\Stupin41PILab02.csproj.CoreCompileInputs.cache
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\Stupin41PILab02.AssemblyInfoInputs.cache
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\Stupin41PILab02.AssemblyInfo.cs
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\Stupin41PILab02.dll
+C:\4 курс\Stupin41PILab02\Stupin41PILab02\Stupin41PILab02\obj\Debug\netstandard2.0\Stupin41PILab02.pdb
